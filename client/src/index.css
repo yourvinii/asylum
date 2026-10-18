@@ -1,0 +1,4 @@
+// Tailwind base import – will be extended later
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
