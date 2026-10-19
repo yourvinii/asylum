@@ -4,7 +4,6 @@ build/
 .env
 .env.local
 .env.development
-.env.example
 .env.test
 .env.production
 .DS_Store
@@ -15,3 +14,9 @@ yarn-debug.log
 yarn-error.log
 coverage/
 *.log
+
+# Uploads directory (local dev storage)
+server/uploads/
+
+# OS artifacts
+Thumbs.db
